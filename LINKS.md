@@ -110,6 +110,7 @@
 * [Things](https://culturedcode.com/things/) - Gerenciador de tarefas pessoais
 * [Todoist](https://todoist.com/app?lang=pt_BR) - Gerenciamento de projetos pessoais e em equipe
 * [Trello](https://www.trello.com/) - Gerencie seus projetos com quadros
+* [KanbanFlow](https://kanbanflow.com/) - Ferramenta simples e ituitiva de gerenciamento de projeto, colaboração em tempo real entre os membros da equipe.
 * [YouTrack](https://www.jetbrains.com/youtrack/) - Gerenciador de projetos online
 
 ## 🆓 Freebies
